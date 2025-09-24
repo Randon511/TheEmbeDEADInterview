@@ -1,9 +1,19 @@
 01. You have 8 balls, all are idential in looks, however one of them is few grams lighter.
     Using a balance scale, find the lighter ball in exactly 2 weighings.
+    A. Take 6 balls, put 3 on each side.
+        If they are equal, remove them all and weight the remaining two
+        If not, take 2 balls from the ligher side and weigh them.
+        If they are equal, the remainig ball is the lighter on. otherwise, the scale will give you the lighter one 
+
 02. You have a 5-liter and a 3-liter mug. Measure exactly 4 liters using these two mugs.
+    A. Assuming you have a place to put alot of water. Fill the 5 liter mug and pour it in the bucket twice. 
+        Take the 3 liter mug and remove 3 liters of water from the bucket twice. You will have 4 liters leftover
+
 03. You need to cross a bridge at night in 15 minutes. Four people must cross with one flashlight:
     A takes 1 minute, B takes 2 minutes, C takes 5 minutes, and D takes 8 minutes. Only two people
     can cross at once, and they must share the flashlight. How can all four people cross in time?
+
+
 04. A car has four tires and one spare tire. Each tire can travel a maximum of 20,000 kilometers.
     What is the maximum distance the car can travel if tires can be interchanged as needed?
 05. You have 15 rupees. Each chocolate costs 1 rupee, and for every 3 chocolate wrappers, you can
