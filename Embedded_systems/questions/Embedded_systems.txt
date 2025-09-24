@@ -1,3 +1,4 @@
+TODO
 1. what embedded systems experience do you have  
 2. Difference between Microcontroller and Microprocessor  
 3. Address bus / Data bus  

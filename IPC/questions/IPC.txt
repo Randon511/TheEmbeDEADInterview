@@ -1,14 +1,8 @@
+TODO
 1. Different types of IPC mechanisms:
-   >A> Signals, Pipes, Socket, Message Queues, Semaphores, Shared memory
 2. What are necessary conditions which can lead to a deadlock situation in a system?
-   >A> Deadlock situations occur when four conditions occur simultaneously in a system:
-       Mutual exclusion; Hold and Wait; No preemption; and Circular wait.
 3. What are real-time systems?
-   >A> Real-time systems are used when rigid time requirements have been placed on the operation of a processor.
-       It has well defined and fixed time constraints.
 4. What is time- sharing system?
-   In a Time-sharing system, the CPU executes multiple jobs by switching among them, also known as multitasking.
-   This process happens so fast that users can interact with each program while it is running.
 5. Synchronization mechanisms inside Linux kernel
 6. Race condition and deadlock
 7. atomic operations

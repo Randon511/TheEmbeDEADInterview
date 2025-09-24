@@ -1,3 +1,4 @@
+TODO
 01. You have 8 balls, all are idential in looks, however one of them is few grams lighter.
     Using a balance scale, find the lighter ball in exactly 2 weighings.
     A. Take 6 balls, put 3 on each side.

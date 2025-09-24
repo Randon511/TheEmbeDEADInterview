@@ -1,3 +1,4 @@
+TODO
 1. What is the difference between I2C & SPI
 2. How will you chosse which protocal to be used on board communication
 3. How the communication difference b/w I2C & SPI

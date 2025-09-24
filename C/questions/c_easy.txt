@@ -1,3 +1,4 @@
+TODO
 Questions/Topics:
 -----------------
 
@@ -26,7 +27,6 @@ Questions/Topics:
         int a;
         int a = 10;
         extern int a;
-     >A> ONLY c is declaration, as declaring variable as extern does not allocate any memory for that variable.. Other two cases are declaration + definition.
 8. Conditions and loops..
   8.1. Difference between while (0) and while (1)
   8.2. Difference between do.. while and while loop

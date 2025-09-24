@@ -1,3 +1,4 @@
+TODO
 1. When Volatile is needed ?
 2. What is an advantage of having .bss section ?
 3. Function pointer and example, use-cases

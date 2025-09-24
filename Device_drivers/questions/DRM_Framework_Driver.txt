@@ -81,7 +81,6 @@
     - This can include things like rendering graphics, processing audio or video, compressing data,
       encrypting or decrypting information, and running artificial intelligence algorithms.
 14. Architecture of DRM KMS
-    TODO: //Add diagram of DRM KMS 
 15. DRM/KMS Components(1/6): Framebuffer
     >A>
     - This is a standard object storing information about the content to be displayed
